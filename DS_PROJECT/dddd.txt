@@ -1,0 +1,8 @@
+# : [ 0]  word is  [am     ]: file count  1 :file/s:   file is file2.txt:  word count is 2
+# : [ 0]  word is  [abdul  ]: file count  1 :file/s:   file is file2.txt:  word count is 2
+# : [ 1]  word is  [base   ]: file count  1 :file/s:   file is file3.txt:  word count is 1
+# : [ 7]  word is  [hlo    ]: file count  2 :file/s:   file is file2.txt:  word count is 2   file is file3.txt:  word count is 1
+# : [ 7]  word is  [hi     ]: file count  2 :file/s:   file is file2.txt:  word count is 2   file is file3.txt:  word count is 1
+# : [ 8]  word is  [in     ]: file count  1 :file/s:   file is file2.txt:  word count is 1
+# : [16]  word is  [qualcomn]: file count  1 :file/s:   file is file2.txt:  word count is 1
+ : [16]  word is  [qualcomn]: file count  1 :file/s:   file is file2.txt:  word count is 1
