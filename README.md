@@ -23,6 +23,7 @@ I/O for searching with add, update, display database user input features.
 • Key Challenges & Learnings: Arranging the words to the specific index and checking that no of times 
 they are repeated and in which files they are stored Faced challenges during the database creation to 
 store the data of files.
+
 Project 3::-----------------------------------------------------------------------------------------------------------------------------------------------------------
 • Title : Car Black Box 
 • Project brief : The Car Black Box is used to log the event activities which could be investigated upon
